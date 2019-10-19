@@ -5,24 +5,7 @@ include('links_css.php');
 ?>
 
 <body>
-	<!-- Hasnain's working started -->
-	<!-- <div id="myModal" class="modal">
 
-		<div class="modal-content">
-			<div class="modal-header row">
-				<h2 class="col-11">Search Schools</h2>
-				<div class="close col-1 text-right">&times;</div>
-			</div>
-
-			<div class="modal-body  row d-flex justify-content-center">
-				<input class="form-control col-3  rounded mr-5" type="text" />
-				<button type="button" class="btn btn-success col-2 " id="searchSchbtn">Search</button>
-			</div>
-
-		</div>
-
-	</div> -->
-	<!-- Hasnain's working ended -->
 	<div class="py-2 bg-primary">
 		<div class="container">
 			<div class="row no-gutters d-flex align-items-start align-items-center px-3 px-md-0">
