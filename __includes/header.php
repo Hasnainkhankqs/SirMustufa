@@ -1,10 +1,4 @@
-<!doctype html>
-<html>
-<?php
-include('links_css.php');
-?>
 
-<body>
 
 	<div class="py-2 bg-primary">
 		<div class="container">
@@ -90,10 +84,12 @@ include('links_css.php');
 
 				</div>
 				<div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-tertiary">
+					<!-- hasnain's work -->
 					<div id="innerbox" class=" justify-content-center flex-row align-items-center">
 						<input class="form-control   input-sm rounded mr-2" type="text" />
 						<button type="button" class="btn btn-success " id="searchSchbtn">Search</button>
 					</div>
+					<!-- hasnain's work -->
 					<div class="media block-6 d-block text-center">
 						<div class="icon d-flex justify-content-center align-items-center">
 							<a href="www.google.com"><span class="flaticon-kids"></span></a>
@@ -112,11 +108,12 @@ include('links_css.php');
 				</div>
 
 				<div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-fifth">
+					<!-- hasnain's work -->
 					<div id="innerbox2" class=" justify-content-center flex-row align-items-center">
 						<input class="form-control   input-sm rounded mr-2" type="text" />
 						<button type="button" class="btn btn-success " id="searchSchbtn2">Search</button>
 					</div>
-
+					<!-- hasnain's work -->
 					<div class="media block-6 d-block text-center">
 						<div class="icon d-flex justify-content-center align-items-center">
 							<span class="flaticon-reading"></span>
@@ -135,11 +132,5 @@ include('links_css.php');
 		</div>
 	</section>
 
-	<?php
-include('links_js.php');
-?>
 
 
-</body>
-
-</html>

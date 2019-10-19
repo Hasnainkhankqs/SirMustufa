@@ -1,13 +1,9 @@
 <!doctype html>
 <html>
-<style>
+		<?php
+		include('links_css.php');
+		?>
 
-
-
-
-
-
-</style>
 <body>
 
 <?php
@@ -20,7 +16,9 @@ include('header.php');
 
 
 
-
+<?php
+include('links_js.php');
+?>
 
 </body>
 </html>

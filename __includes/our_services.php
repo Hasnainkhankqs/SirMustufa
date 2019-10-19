@@ -1,9 +1,3 @@
-<!doctype html>
-<html>
-<?php
-include('links_css.php');
-?>
-<body>
 
 <section class="ftco-section">
 			<div class="container">
@@ -50,8 +44,6 @@ include('links_css.php');
 			</div>
 		</section>
 
-<?php
-include('links_js.php');
-?>
+
 </body>
 </html>
