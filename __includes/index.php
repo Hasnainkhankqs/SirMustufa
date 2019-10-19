@@ -9,7 +9,6 @@
 	top:0;
 	left:0;
     padding:1.5rem;
-	/* background-color: rgba(0,0,0,0.3); Black w/ opacity */
 	-webkit-animation-name: animatetop;
   -webkit-animation-duration: 0.4s;
   animation-name: animatetop;

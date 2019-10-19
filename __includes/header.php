@@ -5,8 +5,8 @@ include('links_css.php');
 ?>
 
 <body>
-<!-- Hasnain's working started -->
-<!-- <div id="myModal" class="modal">
+	<!-- Hasnain's working started -->
+	<!-- <div id="myModal" class="modal">
 
 		<div class="modal-content">
 			<div class="modal-header row">
@@ -107,17 +107,17 @@ include('links_css.php');
 
 				</div>
 				<div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-tertiary">
-						<div id="innerbox" class=" justify-content-center flex-row align-items-center">
-								<input class="form-control   input-sm rounded mr-2" type="text" />
-								<button type="button" class="btn btn-success " id="searchSchbtn">Search</button>	
+					<div id="innerbox" class=" justify-content-center flex-row align-items-center">
+						<input class="form-control   input-sm rounded mr-2" type="text" />
+						<button type="button" class="btn btn-success " id="searchSchbtn">Search</button>
+					</div>
+					<div class="media block-6 d-block text-center">
+						<div class="icon d-flex justify-content-center align-items-center">
+							<a href="www.google.com"><span class="flaticon-kids"></span></a>
+
+
 						</div>
-						<div class="media block-6 d-block text-center">
-							<div class="icon d-flex justify-content-center align-items-center">
-								<a href="www.google.com"><span class="flaticon-kids"></span></a>
-								
-								
-							</div>
-									<a id="SearchBox">
+						<a id="SearchBox">
 							<div class="media-body p-2 mt-3">
 								<h1 class="heading">Kindergarten</h1>
 								<p>An establishment where children below the age of compulsory education play and learn;
@@ -125,28 +125,26 @@ include('links_css.php');
 							</div>
 						</a>
 					</div>
-					<!-- Hasnain's working started -->
-					
-					<!-- Hasnain's working ended -->
+
 				</div>
 
 				<div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-fifth">
 					<div id="innerbox2" class=" justify-content-center flex-row align-items-center">
 						<input class="form-control   input-sm rounded mr-2" type="text" />
-						<button type="button" class="btn btn-success " id="searchSchbtn2">Search</button>	
+						<button type="button" class="btn btn-success " id="searchSchbtn2">Search</button>
 					</div>
-					
+
 					<div class="media block-6 d-block text-center">
 						<div class="icon d-flex justify-content-center align-items-center">
 							<span class="flaticon-reading"></span>
 						</div>
-						
+
 						<a id="SearchBox2">
-						<div class="media-body p-2 mt-3">
-							<h1 class="heading">Schools</h1>
-							<p>any institution at which instruction is given in a particular discipline.</p>
-						</div>
-					</a>
+							<div class="media-body p-2 mt-3">
+								<h1 class="heading">Schools</h1>
+								<p>any institution at which instruction is given in a particular discipline.</p>
+							</div>
+						</a>
 					</div>
 				</div>
 
